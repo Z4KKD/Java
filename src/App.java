@@ -1,8 +1,6 @@
-import java.util.Scanner;
+import java.util.*;
 import javax.swing.JOptionPane;
 import javax.swing.plaf.synth.SynthStyle;
-import java.util.ArrayList;
-import java.util.Random;
 
 public class App {
     static String favanimal;
