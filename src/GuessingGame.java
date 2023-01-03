@@ -1,7 +1,5 @@
 import java.util.*;
 import javax.swing.JOptionPane;
-import javax.swing.plaf.synth.SynthStyle;
-import javax.swing.JFrame;
 
 public class GuessingGame {
 
